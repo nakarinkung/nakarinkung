@@ -58,6 +58,7 @@ I’m passionate about applying data-driven solutions to complex problems in fin
 
 ---
 
+<!--
 🎓 Education
 
 **MSc Data Science & Its Applications (2024–2025)**
@@ -113,5 +114,5 @@ Created Crystal Reports for real-time financial reporting.
 Supported systems such as Direct Debit Register, Bahtnet, and Juristic salary & tax solutions.
 
 ---
-
+-->
 
