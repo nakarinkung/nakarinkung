@@ -43,11 +43,17 @@ I’m passionate about applying data-driven solutions to complex problems in fin
 🛠 Skills
 
 **Programming Languages:** Python, SQL, R, Java, C#
+
 **Data Science & ML:** Scikit-Learn, TensorFlow, PyTorch, XGBoost, Pandas, NumPy, SHAP, SMOTE
+
 **Data Visualisation:** Power BI, Matplotlib, ggplot2, Excel (Power Query, PivotTables)
+
 **Big Data & Cloud:** AWS, Hadoop, Spark, Snowflake, DataBricks
+
 **Backend & DevOps:** Spring Boot, Docker, Kubernetes, Kafka, IBM MQ, Jenkins, Git
+
 **Databases:** MySQL, SQL Server, DB2, Redis
+
 **Project Management:** Agile, JIRA, API design, CI/CD pipelines
 
 ---
@@ -74,6 +80,7 @@ Applied SHAP values to identify churn drivers
 
 **Crime & Weather Analysis (R):** Correlation between weather patterns and crime rates
 
+---
 
 **BSc Computer Science (2006–2010)**
 
@@ -107,11 +114,4 @@ Supported systems such as Direct Debit Register, Bahtnet, and Juristic salary & 
 
 ---
 
-🏆 Key Achievements
-
-Supported nationwide financial systems used by millions of users.
-
-Led enterprise-scale cloud migration for digital banking applications.
-
-Transitioned into data science, focusing on ML for financial risk, churn, and customer analytics.
 
