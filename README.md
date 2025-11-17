@@ -32,7 +32,7 @@ I’m passionate about applying data-driven solutions to complex problems in fin
 
 **Financial Analytics:** Customer churn, portfolio optimisation, and stock return prediction.
 
-**Big Data & Cloud:** Scalable data pipelines and analytics on AWS, Hadoop, and Spark.
+<!-- **Big Data & Cloud:** Scalable data pipelines and analytics on AWS, Hadoop, and Spark. -->
 
 **Data Visualisation:** Turning complex datasets into clear, impactful dashboards using Power BI, Matplotlib, and ggplot2.
 
